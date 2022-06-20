@@ -9,7 +9,7 @@ Been working in IT for the past 5 years. Transitioned into a Front-End in the pa
 * 😄 Pronouns: She/Her/Hers
 * 🌍  I'm based in the US
 * 🔭 I’m currently working on rebuilding my portfolio
-* 🧠  I'm learning Gatsby.js
+* 🧠  I'm learning Gatsby.js and Styled Components
 * 🤝  I'm open to collaborating on any Front-End projects
 
 
