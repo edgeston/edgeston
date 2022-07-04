@@ -4,7 +4,7 @@ Hi 👋 My name is Monikka
 Front-End Engineer
 ------------------
 
-Been working in IT for the past 5 years. Transitioned into a Front-End in the past year. I love learning, code, and finding solutions that will help others.
+Been working in IT for the past 5 years. Transitioned into Front-End in the past year. I love learning, code, and finding solutions that will help others.
 
 * 😄 Pronouns: She/Her
 * 🌍  I'm based in the US
