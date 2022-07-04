@@ -6,7 +6,7 @@ Front-End Engineer
 
 Been working in IT for the past 5 years. Transitioned into a Front-End in the past year. I love learning, code, and finding solutions that will help others.
 
-* 😄 Pronouns: She/Her/Hers
+* 😄 Pronouns: She/Her
 * 🌍  I'm based in the US
 * 🔭 I’m currently working on rebuilding my portfolio
 * 🧠  I'm learning Gatsby.js and Styled Components
