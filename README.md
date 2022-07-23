@@ -30,6 +30,7 @@ Been working in IT for the past 5 years. Transitioned into Front-End in the past
 ### Socials
 
 <p align="left"><a href="https://www.linkedin.com/in/monikkaedgeston" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.twitter.com/in/akk1n0m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
