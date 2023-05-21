@@ -9,7 +9,7 @@ Been working in IT for the past 5 years. Transitioned into Front-End in the past
 * 😄 Pronouns: She/Her
 * 🌍  I'm based in the US
 * 🔭 I’m currently working on rebuilding my portfolio
-* 🧠  I'm learning PHP and Craft CMS
+* 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on any Front-End projects
 
 
