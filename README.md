@@ -1,7 +1,7 @@
 Hi 👋 My name is Monikka
 ========================
 
-Front-End Engineer
+Software Engineer
 ------------------
 
 Been working in IT for the past 5 years. Transitioned into Front-End in the past year. I love learning, code, and finding solutions that will help others.
