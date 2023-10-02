@@ -1,10 +1,10 @@
-Hi 👋 My name is Monikka
+Hi I'm Monikka
 ========================
 
 Software Engineer
 ------------------
 
-Been working in IT for the past 5 years. Transitioned into Front-End in the past year. I love learning, code, and finding solutions that will help others.
+Been working in IT for the past 5 years. I've worked in support, networking, and am now a Software Engineer. I love learning, code, and helping others.
 
 * 😄 Pronouns: She/Her
 * 🌍  I'm based in the US
