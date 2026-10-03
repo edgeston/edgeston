@@ -1,7 +1,5 @@
 # Hi, I'm Monikka
 
-<img width="180" height="180" alt="edgeston-pfp" src="https://github.com/user-attachments/assets/874d3b17-2b88-4a28-85de-16d013fea2b6" style="border-radius: 24px;" />
-
 ## Software Engineer
 
 I've worked in IT for about 5 years, across support, networking, systems administration, and now software engineering. I build production React and TypeScript applications, maintain API SDKs, and run a Webflow marketing site. I love learning, code, and helping others.
