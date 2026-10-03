@@ -6,12 +6,6 @@ Software Engineer
 
 Been working in IT for the past 5 years. I've worked in support, networking, and am now a Software Engineer. I love learning, code, and helping others.
 
-* 😄 Pronouns: She/Her
-* 🌍  I'm based in the US
-* 🔭 I’m currently working on rebuilding my portfolio
-* 🧠  I'm learning the MERN stack
-* 🤝  I'm open to collaborating on any Front-End projects
-
 
 ### Skills
 
