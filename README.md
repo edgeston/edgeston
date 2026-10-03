@@ -14,10 +14,10 @@ I've worked in IT for about 5 years, across support, networking, systems adminis
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" width="36" height="36" alt="NestJS" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mui" width="36" height="36" alt="MUI" /></a>
-<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=storybook" width="36" height="36" alt="Storybook" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="36" height="36" alt="MUI" /></a>
+<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" width="36" height="36" alt="Storybook" /></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" /></a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cypress" width="36" height="36" alt="Cypress" /></a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="36" height="36" alt="Cypress" /></a>
 <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webflow" width="36" height="36" alt="Webflow" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /></a>
