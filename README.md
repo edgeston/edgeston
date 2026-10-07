@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-I've worked in IT for about 5 years, across support, networking, systems administration, and now software engineering. I build production React and TypeScript applications, maintain API SDKs, and run a Webflow marketing site. I love learning, code, and helping others.
+I've worked in IT and Tech for 6+ years, across support, networking, systems administration, and now software engineering. I build production React and TypeScript applications, maintain API SDKs, and run a Webflow marketing site. I love learning, code, and helping others.
 
 ### Skills
 
